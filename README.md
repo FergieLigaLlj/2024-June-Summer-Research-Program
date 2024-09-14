@@ -13,4 +13,4 @@ This is a summary of my summer research codes, which are implemented by R given 
 These implementations provided me with all the necessary financial mathematics knowledge for further research on the influenced behavior of real covariance, which is mostly resolved with the help of Markowitz Mean-Variance Optimization.\
 All codes are manually implemented, whereas some originated from the book. Similarly, the analytical results are done both by myself and from the book.\
 In addition, I made modifications to the raw data analyzed, where NVDA stock market data is emphasized for example.\
-It should be noted that the research report thesis is provided in the main branch and sub-branches master1 to master8 represent all 8 chapters.\
+It should be noted that the research report thesis is provided in the main branch and sub-branches master1 to master8 represent all 8 chapters.
