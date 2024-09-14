@@ -1,10 +1,10 @@
 ### University of Macau Official Summer Research Program - 06.2024
 ### Details of the Program:
-Project Title (English): Effect of price staleness on the asymptotic behavior of realize covariance
-Project Title (Chinese): 價格遲滯現象對已實現協方差極限理論的影響研究
-Principal Investigator (PI): PROF. LIU ZHI
-Program Duration: June - July 2024 under PI’s face-to-face supervision
-Program Code: MYRG-GRG2023-00036-FST-UMDF
+Project Title (English): Effect of price staleness on the asymptotic behavior of realize covariance\
+Project Title (Chinese): 價格遲滯現象對已實現協方差極限理論的影響研究\
+Principal Investigator (PI): PROF. LIU ZHI\
+Program Duration: June - July 2024 under PI’s face-to-face supervision\
+Program Code: MYRG-GRG2023-00036-FST-UMDF\
 
 ### Brief Introduction
 Hello everyone!
