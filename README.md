@@ -4,7 +4,7 @@ Project Title (English): Effect of price staleness on the asymptotic behavior of
 Project Title (Chinese): 價格遲滯現象對已實現協方差極限理論的影響研究\
 Principal Investigator (PI): PROF. LIU ZHI\
 Program Duration: June - July 2024 under PI’s face-to-face supervision\
-Program Code: MYRG-GRG2023-00036-FST-UMDF\
+Program Code: MYRG-GRG2023-00036-FST-UMDF
 
 ### Brief Introduction
 Hello everyone!
